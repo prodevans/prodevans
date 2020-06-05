@@ -6,8 +6,8 @@ Prodevans is a leading technology solution provider specialising in end-to-end D
 
 ## Why Prodevans
 
-1.14 Year Experience with Red Hat.
-2.First Hand On Field Experience.
-3.Digital Transformation Specialists.
-4.Bespoke Solutions.
-5.Red Hat Certified Consultants.
+- 14 Year Experience with Red Hat.
+- First Hand On Field Experience.
+- Digital Transformation Specialists.
+- Bespoke Solutions.
+- Red Hat Certified Consultants.
