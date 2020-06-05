@@ -1,4 +1,4 @@
-# An Ultimate place to explore yourself
+# A Cloud DevOps Partner
 
 ## Welcome to Prodevans
 
