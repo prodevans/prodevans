@@ -12,13 +12,6 @@ Prodevans is a leading technology solution provider specialising in end-to-end D
 - Bespoke Solutions.
 - Red Hat Certified Consultants.
 
-## Industries We Serve
-- Telecom
-- Insurence
-- Healthcare
-- Financial
-- Education
-
 ## OUR VALUES
 
 ### Vision
@@ -32,3 +25,12 @@ Nourish relationship with our employees partner and ISVs to be the organisation 
 
 ### Working Strategies
 Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore.
+
+
+## Industries We Serve
+- Telecom
+- Insurence
+- Healthcare
+- Financial
+- Education
+
