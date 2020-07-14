@@ -36,7 +36,7 @@ Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore.
 
 # Our Products
 
-### [iVentura](https://www.iventura.ai/) is a one-step self-service platform for analytics and Machine Learning that provides a collection of ML components and services natively running on Kubernetes.
+### [iVentura](https://www.iventura.ai/) is a one-stop self-service platform for analytics and Machine Learning that provides a collection of ML components and services natively running on Kubernetes.
 
 ### [PDCloudEX](http://www.pdcloudex.com) is a pre configured private cloud platform on OpenStack for Compute, Network & Storage.
 
